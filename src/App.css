@@ -30,3 +30,50 @@
     transform: rotate(360deg);
   }
 }
+h1{
+  text-align: center;
+  font-style: oblique;
+  font-size: 80px;
+  color: Pink;
+  margin-bottom: auto;
+}
+
+.tiny-box {
+  background: white;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin: 12.5px;
+}
+
+.container {
+  background: black;
+  width: 675px;
+  height: 685px;
+  margin: auto;
+
+}
+
+.clicked {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin: 12.5px;
+  content:url('https://www.clipartmax.com/png/middle/134-1340885_swarm-bee-x-delete-comments-tic-tac-toe-cross.png')
+}
+/*
+.image-x{
+  content:url('https://www.clipartmax.com/png/middle/134-1340885_swarm-bee-x-delete-comments-tic-tac-toe-cross.png')
+} */
+
+/* .image-o {
+  content:url('https://steamuserimages-a.akamaihd.net/ugc/178288930001811919/F903F7344337BA9951A9B20A4FFFE0D5076FB648/')
+} */
+
+.clicked1 {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin: 12.5px;
+  content:url('https://steamuserimages-a.akamaihd.net/ugc/178288930001811919/F903F7344337BA9951A9B20A4FFFE0D5076FB648/')
+}
